@@ -9,7 +9,7 @@
   transform: translate(-50%, -50%);
 }
 .main {
-  background-image: url(./image/land.jpg);
+  background-image: url(./land.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
